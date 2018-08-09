@@ -1,0 +1,48 @@
+PODS:
+  - CryptoSwift (0.11.0)
+  - Differentiator (3.0.2)
+  - Reusable (4.0.2):
+    - Reusable/Storyboard (= 4.0.2)
+    - Reusable/View (= 4.0.2)
+  - Reusable/Storyboard (4.0.2)
+  - Reusable/View (4.0.2)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxDataSources (3.0.2):
+    - Differentiator (~> 3.0)
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxGesture (1.2.1):
+    - RxCocoa (~> 4.0)
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+
+DEPENDENCIES:
+  - CryptoSwift
+  - Reusable
+  - RxDataSources
+  - RxGesture
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - CryptoSwift
+    - Differentiator
+    - Reusable
+    - RxCocoa
+    - RxDataSources
+    - RxGesture
+    - RxSwift
+
+SPEC CHECKSUMS:
+  CryptoSwift: ad5208dd2aae0a764ea4ce2c2d34bd067cae67f0
+  Differentiator: a87be69eba49ec4ab460c7671143ee3a9eececfd
+  Reusable: 584a5629747c52e0f6a77841b400dc2643f6fa0f
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxDataSources: cb7c31e652a87ebb919da45f716bbb87b3765f6b
+  RxGesture: c278eb05b187abd47e11e65464ae4de53ab71d95
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+
+PODFILE CHECKSUM: e1a1929e2c7a659801d0eabe7e5d7c53c97c5923
+
+COCOAPODS: 1.5.3
